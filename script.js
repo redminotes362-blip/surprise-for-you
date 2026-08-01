@@ -27,12 +27,8 @@ typeWriter();
 
 // ---------- Typewriter ----------
 
-const text=`Who knew meeting you in college would become the most beautiful part of my life.
-
-From silly jokes to endless flirting...
-every notification from you makes my day better.
-
-You are my favourite person ❤️`;
+const text=`We met for the first time during exam duty, and I really liked you.
+We spent a lot of time together, but that moment was limited to just that.`;
 
 let i=0;
 
